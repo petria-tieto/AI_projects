@@ -13,4 +13,4 @@ Set your access token to a local .env-file.
 
 Instead of a paid LLM account you can create a local model with Llama and call that. 
 
-requirements.txt is in the root at your disposal for creating a virtual python env.
+requirements.txt is in the root at your disposal for creating a virtual python env. By the time this repo was created, the examples work with python 3.11.
